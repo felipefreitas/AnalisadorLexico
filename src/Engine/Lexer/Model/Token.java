@@ -2,7 +2,6 @@ package Engine.Lexer.Model;
 
 public class Token 
 {
-
     public TokenType Type;
     public String Content;
 
